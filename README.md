@@ -75,12 +75,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/djalmocruzjr/djalmocruzjr/output/snake.svg" alt="Snake animation" />
 
-###
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21ggcs2g6cd4gnvidnvcjwayq)
-
-###
 
 

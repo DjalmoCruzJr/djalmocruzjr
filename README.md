@@ -1,7 +1,3 @@
-<img align="right" height="100" src="https://github.com/DjalmoCruzJr.png"  />
-
-###
-
 <h2 align="left">Fala dev! 👋</h2>
 
 ###
@@ -75,6 +71,8 @@
 
 ###
 
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/djalmocruzjr/djalmocruzjr/output/snake.svg" alt="Snake animation" />
 
-
+###
